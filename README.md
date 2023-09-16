@@ -1,3 +1,3 @@
-# SuperMarketSales
+# SuperMarketSales Visualization
 
 This notebook presents an in-depth exploratory data analysis project on a dataset consisting of 54,808 employee records. The dataset encompasses various essential attributes, including employee demographics, department, region, education level, gender, recruitment channel, training history, age, previous year rating, length of service, KPIs met (>80%), awards won, average training score, and promotion status. The goal of this analysis is to uncover insights and patterns within the data, providing valuable information for HR departments and decision-makers in understanding employee dynamics and factors influencing promotion rates.
